@@ -12,3 +12,4 @@
 |Boy or Girl|CF236-D2-A|[BoyOrGirl.py](src/BodyOrGirl.py)|
 |Word|CF59-D2-A|[Word.py](src/Word.py)|
 |Magnets|CF344-D2-A|[Magnets.py](src/Magnets.py)|
+|Sereja and Dima|CF381-D2-A|[SerejaAndDima.py](src/SerejaAndDima.py)|
