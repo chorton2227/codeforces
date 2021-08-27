@@ -1,4 +1,4 @@
-# Code Forces Problem Solutions
+# Solves for Code Forces problems
 
 |Problem Name|Problem Code|Solution Code|
 |------------|------------|-------------|
