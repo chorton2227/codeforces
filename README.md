@@ -10,3 +10,4 @@
 |Gravity Flip|CF405-D2-A|[GravityFlip.py](src/GravityFlip.py)|
 |Petya and Strings|CF112-D2-A|[PetyaAndStrings.py](src/PetyaAndStrings.py)|
 |Boy or Girl|CF236-D2-A|[BoyOrGirl.py](src/BodyOrGirl.py)|
+|Word|CF59-D2-A|[Word.py](src/Word.py)|
