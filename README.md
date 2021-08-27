@@ -6,3 +6,4 @@
 |Anton and Danik|CF734-D2-A|[AntonAndDanik.py](src/AntonAndDanik.py)|
 |Bear and Big Brother|CF791-D2-A|[BearAndBigBrother.py](src/BearAndBigBrother.py)|
 |Team|CF231-D2-A|[Team.py](src/Team.py)|
+|Beautiful Matrix|CF263-D2-A|[BeautifulMatrix.py](src/BeautifulMatrix.py)|
