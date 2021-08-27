@@ -11,3 +11,4 @@
 |Petya and Strings|CF112-D2-A|[PetyaAndStrings.py](src/PetyaAndStrings.py)|
 |Boy or Girl|CF236-D2-A|[BoyOrGirl.py](src/BodyOrGirl.py)|
 |Word|CF59-D2-A|[Word.py](src/Word.py)|
+|Magnets|CF344-D2-A|[Magnets.py](src/Magnets.py)|
