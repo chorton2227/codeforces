@@ -8,3 +8,4 @@
 |Team|CF231-D2-A|[Team.py](src/Team.py)|
 |Beautiful Matrix|CF263-D2-A|[BeautifulMatrix.py](src/BeautifulMatrix.py)|
 |Gravity Flip|CF405-D2-A|[GravityFlip.py](src/GravityFlip.py)|
+|Petya and Strings|CF112-D2-A|[PetyaAndStrings.py](src/PetyaAndStrings.py)|
