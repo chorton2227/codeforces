@@ -16,8 +16,7 @@ class Input:
     """ List of characters """
     @staticmethod
     def insr():
-        s = input()
-        return(list(s[:len(s) - 1]))
+        return(list(input()))
 
     """ Integer variable inputs """
     @staticmethod
