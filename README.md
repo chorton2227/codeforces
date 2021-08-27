@@ -14,3 +14,4 @@
 |Magnets|CF344-D2-A|[Magnets.py](src/Magnets.py)|
 |Sereja and Dima|CF381-D2-A|[SerejaAndDima.py](src/SerejaAndDima.py)|
 |Stones on the Table|CF266-D2-A|[StonesOnTheTable.py](src/StonesOnTheTable.py)|
+|Police Recruits|CF427-D2-A|[PoliceRecruits.py](src/PoliceRecruits.py)|
