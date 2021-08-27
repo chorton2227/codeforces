@@ -22,3 +22,11 @@ class Input:
     @staticmethod
     def invr():
         return(map(int, input().split()))
+
+class Temp:
+    def solve(self):
+        # todo
+
+if __name__ == "__main__":
+    temp = Temp()
+    temp.solve()
