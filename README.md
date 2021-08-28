@@ -16,3 +16,4 @@
 |Stones on the Table|CF266-D2-A|[StonesOnTheTable.py](src/StonesOnTheTable.py)|
 |Police Recruits|CF427-D2-A|[PoliceRecruits.py](src/PoliceRecruits.py)|
 |Black Square|CF431-D2-A|[BlackSquare.py](src/BlackSquare.py)|
+|Night at the Museum|CF731-D2-A|[NightAtTheMuseum.py](src/NightAtTheMuseum.py)|
