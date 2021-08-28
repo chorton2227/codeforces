@@ -19,3 +19,4 @@
 |Night at the Museum|CF731-D2-A|[NightAtTheMuseum.py](src/NightAtTheMuseum.py)|
 |Games|CF268-D2-A|[Games.py](src/Games.py)|
 |Buy a Shovel|CF732-D2-A|[BuyAShovel.py](src/BuyAShovel.py)|
+|Is your horseshoe on the other hoof?|CF228-D2-A|[IsYourHorseshoeOnTheOtherHoof.py](src/IsYourHorseshoeOnTheOtherHoof.py)|
