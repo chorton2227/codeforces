@@ -18,3 +18,4 @@
 |Black Square|CF431-D2-A|[BlackSquare.py](src/BlackSquare.py)|
 |Night at the Museum|CF731-D2-A|[NightAtTheMuseum.py](src/NightAtTheMuseum.py)|
 |Games|CF268-D2-A|[Games.py](src/Games.py)|
+|Buy a Shovel|CF732-D2-A|[BuyAShovel.py](src/BuyAShovel.py)|
