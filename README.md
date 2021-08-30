@@ -23,3 +23,4 @@
 |Colorful Stones (Simplified Edition)|CF265-D2-A|[ColorfulStone-simple.py](src/ColorfulStone-simple.py)|
 |Die Roll|CF9-D2-A|[DieRoll.py](src/DieRoll.py)|
 |Shaass and Oskols|CF294-D2-A|[ShaassAndOskols.py](src/ShaassAndOskols.py)|
+|Juicer|CF709-D2-A|[Juicer.py](src/Juicer.py)|
