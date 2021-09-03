@@ -28,3 +28,4 @@
 |Anton and Letters|CF443-D2-A|[AntonAndLetters.py](src/AntonAndLetters.py)|
 |Way Too Long Words|CF71-D2-A|[WayTooLongWords.py](src/WayTooLongWords.py)|
 |Free Ice Cream|CF686-D2-A|[FreeIceCream.py](src/FreeIceCream.py)|
+|Helpful Maths|CF339-D2-A|[HelpfulMaths.py](src/HelpfulMaths.py)|
